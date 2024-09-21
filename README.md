@@ -1,5 +1,7 @@
 # Movie Recommendation System using Softmax Deep Neural Network
-
+ ### SAMPLE DATASET
+ http://files.grouplens.org/datasets/movielens/ml-100k.zip
+ 
 <p align="justify">
 A Softmax Deep Neural Network (DNN) is a type of neural network that uses the softmax function in its output layer to classify inputs into multiple categories. The softmax function converts the output logits (raw prediction values) into probabilities that sum to 1, making it ideal for multi-class classification tasks. In this network, multiple hidden layers (hence "deep") are used to learn complex patterns from data, while the softmax layer helps in selecting the most likely class or category.
 </p>
